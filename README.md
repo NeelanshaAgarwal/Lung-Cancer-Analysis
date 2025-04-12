@@ -6,8 +6,7 @@ This is a Flask-based web application for lung cancer detection using machine le
 ## Demo
 
 You can try the deployed application here:
-
-[Lung Cancer Analysis App](https://lung-cancer-analysis.onrender.com)
+[**Lung Cancer Analysis App**](https://lung-cancer-analysis.onrender.com)
 
 
 ## Features
