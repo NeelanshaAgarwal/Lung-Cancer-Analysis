@@ -105,10 +105,3 @@ This app can be deployed to cloud platforms like [Render](https://render.com/) o
 6. **How It Works**: Basic explanation of how the app operates.
 7. **Deployment**: Instructions for deploying the app (specifically Render in this case).
 8. **Future Improvements**: Potential future enhancements to the app.
-9. **License**: Type of license the project is under.
-
-Let me know if you'd like to make any changes or add additional details!
-
-
-
-
