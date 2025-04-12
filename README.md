@@ -2,6 +2,14 @@
 
 This is a Flask-based web application for lung cancer detection using machine learning. The application takes input via a web form, processes the data using a pre-trained machine learning model, and outputs the result of lung cancer prediction.
 
+
+## Demo
+
+You can try the deployed application here:
+
+[**Lung Cancer Analysis App**](https://lung-cancer-analysis.onrender.com)
+
+
 ## Features
 
 - **Web-based User Interface**: The app uses Flask and Bootstrap for a clean, responsive user interface.
