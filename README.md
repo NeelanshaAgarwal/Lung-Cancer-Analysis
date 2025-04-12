@@ -27,10 +27,10 @@ This is a Flask-based web application for lung cancer detection using machine le
 
 2. Create and activate a virtual environment:
 
-  ```bash
-  python -m venv env
-  source env/bin/activate   # For Windows, use: .\env\Scripts\activate
-  ```
+   ```bash
+   python -m venv env
+   source env/bin/activate   # For Windows, use: .\env\Scripts\activate
+   ```
 
 
 3. Install the dependencies:
@@ -42,9 +42,9 @@ This is a Flask-based web application for lung cancer detection using machine le
 
 4. Create and activate a virtual environment:
 
-  ```bash
-  python app.py
-  ```
+   ```bash
+   python app.py
+   ```
 
 
 5. Open your web browser and go to `http://127.0.0.1:5000` to see the app in action.
